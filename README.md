@@ -1,6 +1,7 @@
 # HILL CIPHER
 HILL CIPHER
-EX. NO: 3 AIM:
+EX. NO: 3
+# AIM:
  
 
 IMPLEMENTATION OF HILL CIPHER
@@ -24,7 +25,9 @@ randomly from the set of invertible n × n matrices (modulo 26).
 
 ## ALGORITHM:
 
-STEP-1: Read the plain text and key from the user. STEP-2: Split the plain text into groups of length three. STEP-3: Arrange the keyword in a 3*3 matrix.
+STEP-1: Read the plain text and key from the user.
+STEP-2: Split the plain text into groups of length three. 
+STEP-3: Arrange the keyword in a 3*3 matrix.
 STEP-4: Multiply the two matrices to obtain the cipher text of length three.
 STEP-5: Combine all these groups to get the complete cipher text.
 
